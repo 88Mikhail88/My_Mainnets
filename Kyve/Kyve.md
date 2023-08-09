@@ -1,4 +1,4 @@
-## Install node Kyve ```chain-id kyve-1```
+## Install chain-node Kyve ```chain-id kyve-1```
 
 ```bash
 cd $HOME
